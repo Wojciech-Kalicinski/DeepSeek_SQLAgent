@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48512\\RiderProjects\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent.csproj": {}
+    "C:\\Users\\48512\\Documents\\GitHub\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48512\\RiderProjects\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent.csproj": {
+    "C:\\Users\\48512\\Documents\\GitHub\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48512\\RiderProjects\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent.csproj",
+        "projectUniqueName": "C:\\Users\\48512\\Documents\\GitHub\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent.csproj",
         "projectName": "DeepSeek_SQLAgent",
-        "projectPath": "C:\\Users\\48512\\RiderProjects\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent.csproj",
+        "projectPath": "C:\\Users\\48512\\Documents\\GitHub\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent.csproj",
         "packagesPath": "C:\\Users\\48512\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48512\\RiderProjects\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent\\obj\\",
+        "outputPath": "C:\\Users\\48512\\Documents\\GitHub\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

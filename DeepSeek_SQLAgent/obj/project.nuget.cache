@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7RB5Jse34fw=",
+  "dgSpecHash": "fGs2Gg8ksWs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\48512\\RiderProjects\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent.csproj",
+  "projectFilePath": "C:\\Users\\48512\\Documents\\GitHub\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent\\DeepSeek_SQLAgent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\48512\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.1.0-preview.1.25064.3\\microsoft.extensions.ai.abstractions.9.1.0-preview.1.25064.3.nupkg.sha512",
     "C:\\Users\\48512\\.nuget\\packages\\microsoft.extensions.ai.ollama\\9.1.0-preview.1.25064.3\\microsoft.extensions.ai.ollama.9.1.0-preview.1.25064.3.nupkg.sha512",
