@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DeepSeek_SQLAgent/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.AI.Ollama": "9.1.0-preview.1.25064.3"
+        },
+        "runtime": {
+          "DeepSeek_SQLAgent.dll": {}
+        }
+      },
+      "Microsoft.Extensions.AI.Abstractions/9.1.0-preview.1.25064.3": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.AI.Abstractions.dll": {
+            "assemblyVersion": "9.1.0.0",
+            "fileVersion": "9.100.25.6403"
+          }
+        }
+      },
+      "Microsoft.Extensions.AI.Ollama/9.1.0-preview.1.25064.3": {
+        "dependencies": {
+          "Microsoft.Extensions.AI.Abstractions": "9.1.0-preview.1.25064.3",
+          "System.Net.Http.Json": "9.0.1",
+          "System.Text.Json": "9.0.1"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.AI.Ollama.dll": {
+            "assemblyVersion": "9.1.0.0",
+            "fileVersion": "9.100.25.6403"
+          }
+        }
+      },
+      "System.Net.Http.Json/9.0.1": {},
+      "System.Text.Json/9.0.1": {}
+    }
+  },
+  "libraries": {
+    "DeepSeek_SQLAgent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.AI.Abstractions/9.1.0-preview.1.25064.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qxGgo8ipnJz9viMQBMrnmYymi9cZWV0kep/wNTHgLhieYBCVvkMnOskaoNzRjCMl9hwEkXnZTQIwYk2WbpmmWA==",
+      "path": "microsoft.extensions.ai.abstractions/9.1.0-preview.1.25064.3",
+      "hashPath": "microsoft.extensions.ai.abstractions.9.1.0-preview.1.25064.3.nupkg.sha512"
+    },
+    "Microsoft.Extensions.AI.Ollama/9.1.0-preview.1.25064.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/0xF8C2xtmKvm1ls94sBV+N4jFWjmW9A/hKUT78tCbzN6dnuL/mjP8FNWVOoXM8OX8Uz/JVSSU6heWAFLv8B/w==",
+      "path": "microsoft.extensions.ai.ollama/9.1.0-preview.1.25064.3",
+      "hashPath": "microsoft.extensions.ai.ollama.9.1.0-preview.1.25064.3.nupkg.sha512"
+    },
+    "System.Net.Http.Json/9.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MhCJ2P2txSz4MMXi7TTutycFdbzPDU/A+pwUNpF6zvbDyZtFtvXJN4EEOuIq8b6sZfarakACnXqr0dTYGjUqzQ==",
+      "path": "system.net.http.json/9.0.1",
+      "hashPath": "system.net.http.json.9.0.1.nupkg.sha512"
+    },
+    "System.Text.Json/9.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eqWHDZqYPv1PvuvoIIx5pF74plL3iEOZOl/0kQP+Y0TEbtgNnM2W6k8h8EPYs+LTJZsXuWa92n5W5sHTWvE3VA==",
+      "path": "system.text.json/9.0.1",
+      "hashPath": "system.text.json.9.0.1.nupkg.sha512"
+    }
+  }
+}
